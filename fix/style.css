@@ -1,0 +1,34 @@
+* {
+  font-family: helvetica;
+}
+
+.header {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;  
+}
+
+#tagline {
+  background-image: url('resources/pattern.jpeg');
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+   background-color: skyblue;
+
+}
+
+#image {
+  position: relative;
+  width: 100%;
+}
